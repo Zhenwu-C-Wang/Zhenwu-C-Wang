@@ -2,6 +2,8 @@
 
 **AI Engineer | LLM Systems, Agent Safety & Healthcare AI**
 
+**London, UK | Target roles: AI/LLM Engineer, Agent Safety/Evals, AI Deployment/FDE**
+
 I build evaluation and safety tooling for tool-using AI agents, with a focus on high-risk workflows where reliability, auditability, and human review matter.
 
 My current portfolio combines:
