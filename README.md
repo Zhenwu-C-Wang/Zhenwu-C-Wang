@@ -1,38 +1,29 @@
 # Zhenwu Wang
 
-**AI Engineer | LLM Systems, Agent Safety & Healthcare AI**
+**AI Engineer | LLM Systems, Healthcare AI & Agent Evaluation**
 
-**London, UK | Target roles: AI/LLM Engineer, Agent Safety/Evals, AI Deployment/FDE**
+London, UK | Target roles: AI/LLM Engineer, Agent Evals, AI Deployment/FDE
 
-I build evaluation and safety tooling for tool-using AI agents, with a focus on high-risk workflows where reliability, auditability, and human review matter.
+I build applied AI systems and evaluation workflows with a focus on reliability, auditability, reproducibility, and high-risk domain constraints.
 
-My current portfolio combines:
+Some current research work in agent safety, healthcare AI, scientific workflow governance, and post-training evaluation is private while patent and publication strategy is under review.
 
-- **Agent safety and evals**: runtime controls, red-team task suites, policy gates, trace redaction, and risk-utility-cost frontier reports.
-- **Healthcare AI systems**: HIS/EMR workflow integration, clinical documentation, human-in-the-loop review, writeback/receipt design, and quality instrumentation.
-- **Reproducible engineering**: pytest, CI, release tags, checked-in reports, and short reproduction paths.
+## Public Work
 
-## Highlighted Work
-
-| Project | What it demonstrates | Release evidence |
-| --- | --- | --- |
-| [MCP Runtime Safety Frontier](https://github.com/Zhenwu-C-Wang/mcp-runtime-safety-frontier) | Runtime safety evaluation for MCP-style tool-using agents across policy, schema integrity, semantic risk, taint tracking, and human approval. | `v0.1`, CI, redacted traces, real MCP stdio smoke coverage, frontier reports |
-| [Clinical Agent World Model](https://github.com/Zhenwu-C-Wang/clinical-agent-world-model) | Synthetic hospital workflow world model for predicting safety risk, delay, audit completeness, and safer next actions for clinical agents. | `v0.1.2`, CI, 5-minute reproduction path, no-PHI synthetic trajectories |
-| [Agent Orchestrator](https://github.com/Zhenwu-C-Wang/agent-orchestrator) | Local-first supervisor/worker agent framework with bounded workflow routing, structured traces, audit persistence, Streamlit UI, and guarded eval coverage. | `v0.1`, 5-minute reproduction path, 10-case mini eval, 22 pytest modules |
+| Project | What it shows |
+| --- | --- |
+| [Product Loop Kit](https://github.com/Zhenwu-C-Wang/product-loop-kit) | A plain-file operating system for product specs, eval plans, AI coding-agent tasks, PR evidence, human review, and feedback loops. |
+| [Author Collector](https://github.com/Zhenwu-C-Wang/author-collector) | Evidence-first public content aggregation with identity resolution, structured extraction, and compliance-minded data handling. |
+| [Chest X-ray Adaptation](https://github.com/Zhenwu-C-Wang/chest-xray-adaptation) | Medical imaging model adaptation and calibration work on public chest X-ray datasets. |
+| [Comparison of Deepseek Optimisation Strategies](https://github.com/Zhenwu-C-Wang/Comparison-of-Deepseek-Optimisation-Strategies) | Earlier notebook-based exploration of model optimization strategies. |
 
 ## Current Focus
 
-- MCP and tool-use runtime safety
-- Agent evals, red-team scenarios, and CI regression gates
-- Synthetic environments for healthcare-agent risk modeling
-- Production-facing GenAI workflows with audit trails and measurable acceptance gates
-
-## Selected Results
-
-- Reduced deterministic MCP-style baseline severity-weighted ASR from `0.974` to `0.000` while preserving FPR `0.000` and task success `1.000` in a reproducible safety frontier harness.
-- Built a synthetic clinical-agent workflow environment with `1,000` no-PHI trajectories across six workflow actions and five safety-risk classes.
-- Used 3-step world-model lookahead to reduce synthetic unsafe action rate from `50.5%` to `0.0%` while improving task success from `82.2%` to `100.0%`.
-- Released a local-first agent orchestrator with five bounded workflow templates, structured traces, audit persistence, a Streamlit inspection UI, and a 10-case guarded mini eval.
+- Agent evaluation and runtime safety
+- Healthcare AI workflow modeling and auditability
+- Synthetic, non-sensitive data environments for high-risk AI testing
+- Product/eval/review loops for AI-assisted software development
+- Reproducible engineering with tests, schemas, CI, and reviewer-facing evidence
 
 ## Links
 
