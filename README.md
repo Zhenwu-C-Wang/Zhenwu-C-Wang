@@ -1,43 +1,49 @@
 # Zhenwu Wang
 
-**AI Engineer | LLM Systems, Healthcare AI & Agent Evaluation**
+**AI Engineer | Agent Runtime, Evals & Reliability**
 
-London, UK | Target roles: AI/LLM Engineer, Agent Evals, AI Deployment/FDE
+Applied AI / Forward Deployed Engineering · High-risk systems experience
 
-I build applied AI systems and evaluation workflows for domains where reliability, auditability, and reproducibility matter. My background combines clinical medicine, computer science, and hands-on engineering for AI workflows that need clear acceptance criteria and reviewable evidence.
+Chengdu, China · Open to London relocation
 
-Some current research prototypes are private by design. I keep implementation details, unpublished findings, sensitive workflow assumptions, credentials, and real-world data out of public repositories.
+I build reliable AI workflows with explicit task boundaries, reproducible evaluation, traceable evidence, human review, and clear deployment acceptance criteria. My background combines computer science, clinical medicine, and hands-on engineering in high-risk environments.
+
+Healthcare is a domain differentiator, not the boundary of my target role. My current engineering focus is agent runtime, evals, reliability, and applied AI delivery.
 
 ## What I Build
 
-- **Agent evaluation systems:** task fixtures, tool-use workflows, runtime checks, traceable outputs, red-team style test cases, and regression gates.
-- **Healthcare AI workflow prototypes:** synthetic/non-sensitive workflow environments, documentation safety checks, human review paths, and audit-oriented interfaces.
-- **Reproducible engineering assets:** typed schemas, CLI workflows, pytest suites, CI checks, report generation, and reviewer-facing evidence.
-- **AI coding-agent operating loops:** product vision, specs, eval plans, agent tasks, PR evidence, human review, and feedback-to-iteration workflows.
+- **Agent evaluation and reliability workflows:** task fixtures, failure models, structured outputs, traceable runs, review gates, and regression evidence.
+- **Applied AI delivery systems:** product intent, specifications, eval plans, agent tasks, implementation evidence, and human feedback loops.
+- **Auditable data and AI pipelines:** typed schemas, provenance, run-level traceability, constrained automation, and reviewable reports.
+- **High-risk workflow prototypes:** synthetic or public data, human confirmation, privacy boundaries, and deployment acceptance criteria.
 
 ## Public Work
 
-| Project | What it shows |
+Only repositories that are currently publicly accessible are linked here.
+
+| Project | What it demonstrates |
 | --- | --- |
-| [Product Loop Kit](https://github.com/Zhenwu-C-Wang/product-loop-kit) | A plain-file operating system for product specs, eval plans, AI coding-agent tasks, PR evidence, human review, and feedback loops. |
-| [Author Collector](https://github.com/Zhenwu-C-Wang/author-collector) | Evidence-first public content aggregation with identity resolution, structured extraction, provenance, and compliance-minded data handling. |
-| [Comparison of Deepseek Optimisation Strategies](https://github.com/Zhenwu-C-Wang/Comparison-of-Deepseek-Optimisation-Strategies) | Earlier notebook-based exploration of model optimization strategies. |
+| [Product Loop Kit](https://github.com/Zhenwu-C-Wang/product-loop-kit) | A plain-file operating system connecting product vision, specs, eval plans, AI coding-agent tasks, PR evidence, human review, and iteration decisions. |
+| [Author Collector](https://github.com/Zhenwu-C-Wang/author-collector) | A compliance-first, evidence-first public-content pipeline with field-level provenance, manual identity resolution, run traceability, and operational guardrails. |
+| [Comparison of Deepseek Optimisation Strategies](https://github.com/Zhenwu-C-Wang/Comparison-of-Deepseek-Optimisation-Strategies) | Earlier notebook-based exploration of model optimisation strategies. |
 
-## Engineering Style
+## Engineering Principles
 
-- Start with a clear task boundary, failure model, and acceptance criteria.
-- Prefer synthetic or public data until privacy and deployment boundaries are explicit.
-- Make outputs inspectable: logs, traces, reports, schemas, and small reproducible commands.
-- Use tests and CI as product evidence, not just implementation hygiene.
-- Keep public demos useful without exposing unpublished research or sensitive operational details.
+- Define the task boundary, failure model, and acceptance criteria before implementation.
+- Prefer synthetic or public data until privacy, ownership, and deployment boundaries are explicit.
+- Make results inspectable through schemas, logs, traces, reports, tests, and small reproducible commands.
+- Treat evals and CI as product evidence, not only implementation hygiene.
+- Keep private research, unpublished findings, employer information, credentials, and sensitive operational material out of public repositories.
 
 ## Current Focus
 
-- Agent evaluation and runtime safety
-- Healthcare AI workflow modeling and auditability
-- Synthetic, non-sensitive environments for high-risk AI testing
-- Product/eval/review loops for AI-assisted software development
-- Local-first AI tools with human review and traceable decisions
+- Agent runtime, evaluation, and reliability
+- Deterministic replay, failure diagnosis, and regression gates
+- Latency, cost, quality, and recovery trade-offs
+- Applied AI / Forward Deployed Engineering
+- Human-reviewed AI systems for high-risk environments
+
+Some current research prototypes remain private by design and are not represented as public releases here.
 
 ## Links
 
