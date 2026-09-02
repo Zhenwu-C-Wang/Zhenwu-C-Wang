@@ -21,11 +21,11 @@ Healthcare is a domain differentiator, not the boundary of my target role. My cu
 
 Only repositories that are currently publicly accessible are linked here.
 
-| Project | What it demonstrates |
-| --- | --- |
-| [Product Loop Kit](https://github.com/Zhenwu-C-Wang/product-loop-kit) | A plain-file operating system connecting product vision, specs, eval plans, AI coding-agent tasks, PR evidence, human review, and iteration decisions. |
-| [Author Collector](https://github.com/Zhenwu-C-Wang/author-collector) | A compliance-first, evidence-first public-content pipeline with field-level provenance, manual identity resolution, run traceability, and operational guardrails. |
-| [Comparison of Deepseek Optimisation Strategies](https://github.com/Zhenwu-C-Wang/Comparison-of-Deepseek-Optimisation-Strategies) | Earlier notebook-based exploration of model optimisation strategies. |
+| Project | What it demonstrates | Reviewable evidence |
+| --- | --- | --- |
+| [Product Loop Kit](https://github.com/Zhenwu-C-Wang/product-loop-kit) | A plain-file operating system connecting product vision, specs, eval plans, AI coding-agent tasks, PR evidence, human review, and iteration decisions. | [Runnable validation and readiness checks](https://github.com/Zhenwu-C-Wang/product-loop-kit#start-here) · [End-to-end reference case](https://github.com/Zhenwu-C-Wang/product-loop-kit/tree/main/examples/typing-tutor) |
+| [Author Collector](https://github.com/Zhenwu-C-Wang/author-collector) | A compliance-first, evidence-first public-content pipeline with field-level provenance, manual identity resolution, run traceability, and operational guardrails. | [v0.1.1 release](https://github.com/Zhenwu-C-Wang/author-collector/releases/tag/v0.1.1) · [Scheduled canary](https://github.com/Zhenwu-C-Wang/author-collector/actions/workflows/canary.yml) · [Independent-user pilot](https://github.com/Zhenwu-C-Wang/author-collector/issues/6) |
+| [Comparison of Deepseek Optimisation Strategies](https://github.com/Zhenwu-C-Wang/Comparison-of-Deepseek-Optimisation-Strategies) | Earlier notebook-based exploration of model optimisation strategies. | [Source notebooks and results](https://github.com/Zhenwu-C-Wang/Comparison-of-Deepseek-Optimisation-Strategies) |
 
 ## Engineering Principles
 
